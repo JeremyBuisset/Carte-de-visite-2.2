@@ -1,0 +1,59 @@
+#cadre{
+    border-top: black solid 3px;
+    border-bottom: black solid 3px;
+    width: 600px;
+    height: 350px;
+    background: #3470a0;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: 15px;
+    margin-left: 30%;
+}
+
+#image{
+    display: inline-block;
+    padding-top:50px;
+    padding-left:15px;
+    padding-bottom: 10px;
+
+}
+
+#txthaut{
+    display: inline-block;
+    vertical-align: top;
+    padding:30px;
+
+    text-align: center;
+    margin-top:50px;
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
+    color: #989f98;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    line-height: 1;
+    font-style: italic;
+    color: #989f98;
+
+}
+
+
+p{
+    display: inline-block;
+    text-decoration: underline;
+}
+
+#logoMail,#logoGit,#logoLin{
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 10px;
+    color: white;
+
+}
+
