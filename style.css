@@ -8,6 +8,7 @@
     font-family: sans-serif;
     color: white;
     font-size: 15px;
+    margin-left: 30%;
 }
 
 #image{
@@ -22,15 +23,16 @@
     display: inline-block;
     vertical-align: top;
     padding:30px;
-
+    text-shadow: 1px 1px 2px black;
     text-align: center;
     margin-top:50px;
+
 }
 
 h1{
     font-size: 35px;
     font-family: 'Abril Fatface', cursive;
-    color: #989f98;
+    color: gray;
 }
 
 h2 {
@@ -38,7 +40,7 @@ h2 {
     font-size: 25px;
     line-height: 1;
     font-style: italic;
-    color: #989f98;
+    color: gray;
 
 }
 
